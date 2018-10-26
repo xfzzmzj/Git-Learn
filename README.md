@@ -13,7 +13,7 @@ My Git Learning
 [Gitflow工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-release-cycle-4maintenance.png)  
 ![Gitflow工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-release-cycle-4maintenance.png)  
 
-[Forking工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-forking.png)
+[Forking工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-forking.png)  
 ![Forking工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-forking.png)
 
 # windows Git 服务器  
