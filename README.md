@@ -4,7 +4,8 @@ My Git Learning
 # Git 工作流
 ##### 集中式工作流
 ##### 功能分支工作流
-##### Gitflow工作流
+##### Gitflow工作流  
+[Gitflow工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-release-cycle-4maintenance.png)
 ##### Forking工作流
 
 # windows Git 服务器  
