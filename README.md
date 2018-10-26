@@ -2,12 +2,12 @@
 My Git Learning
 
 # Git 服务器  
-GitWeb
-GitHub
-GitLab
-Gitblit
-gitstack
-git + ssh (Copssh)
+GitWeb  
+GitHub  
+GitLab  
+Gitblit  
+gitstack  
+git + ssh (Copssh)  
 GitCandy (https://github.com/Aimeast/GitCandy)
 
 # Git 工作流
