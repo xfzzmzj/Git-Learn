@@ -9,8 +9,10 @@ My Git Learning
 
 [功能分支工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-feature-branch-1.png)  
 ![功能分支工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-feature-branch-1.png)  
+
 [Gitflow工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-release-cycle-4maintenance.png)  
 ![Gitflow工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-release-cycle-4maintenance.png)  
+
 [Forking工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-forking.png)
 ![Forking工作流](https://xfzzmzj.github.io/Git-Learn/git-workflow-forking.png)
 
